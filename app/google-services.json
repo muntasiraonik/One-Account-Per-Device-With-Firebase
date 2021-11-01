@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29672522062",
+    "project_id": "one-account-per-device",
+    "storage_bucket": "one-account-per-device.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29672522062:android:c0f6d77eb812bde7039e1f",
+        "android_client_info": {
+          "package_name": "xyz.muntasiraonik.oneaccountperdevice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29672522062-gp5r3cd46te3sr4ucalkek883a31c08l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAoTGUdFODhYsHvNMbO3jO84_Cmz242Pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29672522062-gp5r3cd46te3sr4ucalkek883a31c08l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
